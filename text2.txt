@@ -1,0 +1,11 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is E6C6-5AEB
+
+ Directory of C:\Users\DIVYA\Desktop\git operation
+
+27-10-2021  17:39    <DIR>          .
+27-10-2021  17:39    <DIR>          ..
+27-10-2021  17:38               352 text1.txt
+27-10-2021  17:39                 0 text2.txt
+               2 File(s)            352 bytes
+               2 Dir(s)  64,658,059,264 bytes free
